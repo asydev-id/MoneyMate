@@ -1,0 +1,35 @@
+Catatan Pengembang - Pembaruan Komit
+
+Tanggal: [TTTT-BB-HH]
+Penulis: [Nama Anda]
+
+Pembaruan dalam komit ini:
+- [ ] Perbaikan bug:
+    - [Jelaskan bug yang telah diperbaiki]
+
+- [ ] Koreksi kesalahan:
+    - [Daftar kesalahan yang telah diperbaiki]
+
+- [ ] Fitur/Peningkatan Baru:
+    - [Jelaskan fitur atau peningkatan baru]
+
+- [ ] Tugas yang direncanakan:
+    - [Daftar tugas yang direncanakan untuk komit berikutnya]
+
+Masalah yang tersisa dalam komit ini:
+- [ ] bug:
+    - [Jelaskan bug yang masih tersisa]
+
+- [ ] Error:
+    - [Daftar kesalahan yang masih tersisa]
+
+- [ ] Ketidaksesuaian:
+    - [Jelaskan fitur yang belum sesuai]
+
+- [ ] Tugas yang direncanakan:
+    - [Daftar perbaikan yang direncanakan untuk komit berikutnya]
+
+Catatan tambahan:
+- [Informasi relevan lainnya]
+
+Referensi Komit: [Hash Komit]
