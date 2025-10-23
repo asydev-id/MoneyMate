@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://MoneyMate.app" target="_blank">
+  <a href="https://moneymate-production-id.up.railway.app" target="_blank">
     <img src="https://github.com/asydev-id/MoneyMate/blob/498bbd1d78347a08e6f08b9b41aa121893d0f627/docs/assets/logo.png" width="300" alt="MoneyMate Logo">
   </a>
 </p>
