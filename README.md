@@ -63,47 +63,6 @@ Dirancang untuk membantu pengguna **mengelola anggaran harian secara efektif mel
 
 Jika ingin mengembangkan MoneyMate, silakan ikuti panduan instalasi di bawah atau cek video tutorial di [YouTube Channel](https://youtube.com/yourchannel).
 
-### Tools Requirements
-
-- **[composer](https://getcomposer.org/download/)**
-- **[node.js](https://nodejs.org/id/download)**
-- **[Git](https://git-scm.com/downloads)**
-- **[Laragon](https://laragon.org/download)** / **[xampp](https://www.apachefriends.org/download.html)**
-- **[Code Editor](https://zapier.com/blog/best-code-editor/)**
-- **[Mail Tester](https://github.com/mailhog/MailHog/releases)**
-
-## 🛠️ Instalasi
-
-- Clone repo ini:
-
-```bash
-git clone https://github.com/AsyrafRF/moneymate.git
-cd moneymate
-```
-
-- Install dependencies:
-
-```bash
-composer install
-cp .env.example .env
-php artisan key:generate
-```
-
-- Migrasi database:
-
-```bash
-php artisan migrate
-php artisan storage:link
-```
-
-- Ketik "Yes" atau tekan Enter.
-
-- Jalankan server lokal:
-
-```bash
-php artisan serve
-```
-
 ---
 
 🤝 Kontribusi
