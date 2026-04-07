@@ -72,7 +72,7 @@ Silakan baca Panduan Kontribusi
 
 📜 Lisensi
 
-MoneyMate adalah software yang dikembangkan dalam Project Based Learning di bawah Politeknik Negeri Batam
+MoneyMate adalah software yang dikembangkan dalam Project Based Learning di bawah [Politeknik Negeri Batam](https://www.polibatam.ac.id)
 .
 
 
