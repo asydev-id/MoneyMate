@@ -5,6 +5,7 @@ Berikut adalah kumpulan link pengembangan yang dikelompokkan berdasarkan kategor
 ## 🛠️ Pengembangan (Development)
 * [weatherly-nontarnished-lorinda.ngrok-free.dev](https://weatherly-nontarnished-lorinda.ngrok-free.dev) – Lingkungan Testing Local Development.
 * [moneymate-dev.up.railway.app](https://moneymate-dev.up.railway.app) – Demo Early Access Improvement Update.
+* [polibatam.id/moneymatedev](https://polibatam.id/moneymatedev) – Shortlink untuk kebutuhan Local Testing.
 
 ## 🧪 Live Testing / Demo
 * [moneymate.sroft.my.id](https://moneymate.sroft.my.id) – Lingkungan Beta Test mendekati produksi.
@@ -16,6 +17,7 @@ Berikut adalah kumpulan link pengembangan yang dikelompokkan berdasarkan kategor
 
 ## 🚀 Production / Publish
 * [moneymate.id](https://moneymate.id) – Deployment Server Utama Production.
+* [polibatam.id/moneymate-admin](https://polibatam.id/moneymate-admin) – Shortlink untuk ke web admin panel moneymate.
 
 ## 📢 Promotions
 
