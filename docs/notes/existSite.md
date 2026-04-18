@@ -23,6 +23,6 @@ Berikut adalah kumpulan link pengembangan yang dikelompokkan berdasarkan kategor
 
 ## 🌐 Contacts / Social Media
 * Gmail - moneymate.app.id@gmail.com
-* [Instagram](https://www.instagram.com/moneymate.co)
+* [Instagram](https://www.instagram.com/moneymate_id)
 * [Twitter](https://x.com/moneymateid)
 * [Discord](https://discord.gg/Z9YxgFEVtG)
