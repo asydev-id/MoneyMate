@@ -61,7 +61,7 @@ Dirancang untuk membantu pengguna **mengelola anggaran harian secara efektif mel
 - [Dokumentasi Frontend](#)  
 - [Demo Live](#)  
 
-Jika ingin mengembangkan MoneyMate, silakan ikuti panduan instalasi di bawah atau cek video tutorial di [YouTube Channel](https://youtube.com/yourchannel).
+Jika ingin mengembangkan MoneyMate, silakan ikuti panduan instalasi di bawah atau cek video tutorial di [YouTube Channel](https://youtube.com/@moneymateofficial-id).
 
 ---
 
@@ -77,4 +77,4 @@ MoneyMate adalah software yang dikembangkan dalam Project Based Learning di bawa
 
 
 
-<p align="center"> Dibuat dengan ❤️ oleh <a href="https://www.instagram.com/moneymate.trpl/">PBL-TRPL517 A Team</a> </p> 
+<p align="center"> Dibuat dengan ❤️ oleh <a href="https://www.instagram.com/team_moneymate/">PBL-TRPL517 A Team</a> </p> 
